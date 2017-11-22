@@ -1,0 +1,10 @@
+.item-list {
+  max-width: 500px;
+  width:100%;
+  margin: 50px auto;
+  min-height: 30vh;
+}
+
+.item-list .item:nth-child(even) {
+  background-color: lightgrey;
+}
